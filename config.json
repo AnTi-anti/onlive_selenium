@@ -1,0 +1,11 @@
+{
+    "date": [7],
+    "session": [1],
+    "ticket_type": [0],
+    "ticket_num": 1,
+    "driver_path": "C:\\Program Files\\Google\\Chrome\\Application\\chromedriver.exe",
+    "target_url": "https://m.zhengzai.tv/#/ticket/detail?id=2352133014472826880833749",
+    "buy_time": "2022 05 18 00 43 00",
+    "wait_time": 0.5,
+    "phone": "1111"
+}
